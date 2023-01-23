@@ -1,6 +1,7 @@
 .row{
     display: flex;
     justify-content: center;
+    flex-direction: row;
 }
 h1{
     color: #C197D2;
