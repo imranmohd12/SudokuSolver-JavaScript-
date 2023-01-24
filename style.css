@@ -16,7 +16,7 @@ body{
 .cell{
     width: 30px;
     height: 30px;
-    /*margin: 2px;*/
+    margin: 2px;
     font-size: large;
     text-align: center;
     color: red;
